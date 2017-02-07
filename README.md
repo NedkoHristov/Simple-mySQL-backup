@@ -25,3 +25,10 @@ PASSWORD="your-mysql-password"
 DIR="dump-directory"
 
 Note - $DIR should follows to directory with appropriate read/write permissions.
+
+# In next versions:
+
+* Log support (0.2);
+* cronjob configurator via terminal GUI (0.3);
+* Full parametrization of the script (0.4)
+* GUI(ish) configuration of the Simple mySQL backup tool (1.0);
